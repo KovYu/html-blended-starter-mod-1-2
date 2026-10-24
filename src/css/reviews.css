@@ -1,1 +1,26 @@
 /* Сюди додавай стилі частинки Reviews */
+.reviews {
+  font-family: 'Inter', sans-serif;
+  letter-spacing: -0.02em;
+}
+.reviews-title {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 1;
+  text-align: center;
+  color: #fbfbfb;
+}
+.reviews-desc {
+  font-size: 14px;
+  line-height: 1.28571;
+  text-align: center;
+  color: #b4b7ba;
+}
+.reviews-list {
+}
+.reviews-item {
+}
+.reviewer-title {
+}
+.reviewer-desc {
+}
